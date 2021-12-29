@@ -7,14 +7,32 @@ Update suatu data sangat diperlukan dalam sebuah sistem dimana untuk mempercepat
 
 A. Tampilan Data Transaksi sebelum di Update.
 
-![image](https://user-images.githubusercontent.com/95658885/147355809-b4028966-b4fe-4f05-a230-0526249b1e52.png)
+![image](https://user-images.githubusercontent.com/95658885/147654172-fc4f5e5e-7b9d-4a98-9aa8-95f372d35445.png)
 
 
-Selanjutnya, Dimana kita akan coba Mengupdate data dari Miya yang akan dirubah Menjadi Bubun.
+B. Selanjutnya, Dimana kita akan coba Mengupdate data dari Burhan yang akan dirubah Menjadi Miya.
 
-![image](https://user-images.githubusercontent.com/95658885/147355887-b61f5c14-cd6b-4bb2-9077-f5e553a6ab06.png)
-![image](https://user-images.githubusercontent.com/95658885/147355924-2edcb3e1-6c40-4273-bb48-8f058890e8fb.png)
-![image](https://user-images.githubusercontent.com/95658885/147355929-620bd3d0-7b6f-4d69-b26d-f0225e953b7d.png)
+![image](https://user-images.githubusercontent.com/95658885/147654281-3a65a53c-8b9e-4cb2-a0da-054956564f2b.png)
 
+![image](https://user-images.githubusercontent.com/95658885/147654302-e72394df-a970-4730-9aef-735f5cfe0521.png)
+
+![image](https://user-images.githubusercontent.com/95658885/147654326-a8c1f493-f2f2-492f-a0af-e0a54179a203.png)
+
+# 2. Insert Data Transaksi
+Selanjutnya adalah melakukan Insert Data Transaksi
+
+A. Data Sebelum di Insert Terbaru
+
+![Screenshot (41)](https://user-images.githubusercontent.com/95658885/147655212-d54bab2f-d338-4885-bed1-0be00b7708b4.png)
+
+
+B. Tampilan Form Data Transaksi
+
+![Screenshot (44)](https://user-images.githubusercontent.com/95658885/147655247-e2df02c0-a6f3-44de-9c5a-e96f0ea5a773.png)
+
+
+C. Tampilan Setelah Sukses
+
+![Screenshot (45)](https://user-images.githubusercontent.com/95658885/147655274-b44217a6-c135-45d4-9612-e7ebe3d02184.png)
 
 # Terimakasih..
